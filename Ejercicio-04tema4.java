@@ -32,10 +32,22 @@ public class main{
 
     //Punto 4
     System.out.print(" Punto 4: ");
-    for (int numeroFor = 0; numeroFor <= 3; numeroFor+=1){
+    for (int numeroFor = 0; numeroFor<= 3; numeroFor+=1){
         System.out.print(numeroFor);
 
     }
+
+
+
+   
+
+
+
+
+
+
+
+
 
 
     }
